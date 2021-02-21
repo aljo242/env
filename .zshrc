@@ -107,7 +107,7 @@ alias v="nvim"
 alias sv="sudo nvim"
 alias r="ranger"
 alias sr="sudo ranger"
-alias mkd="mdkir -pv"
+alias mkd="mkdir -pv"
 
 # add color to commands
 alias ls="ls -hN --color=auto --group-directories-first"
